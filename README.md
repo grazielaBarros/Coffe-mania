@@ -1,7 +1,7 @@
-# ☕ Coffe Mania
+# ☕ Coffee Mania
 
 ## 📌 Descrição do Projeto
-Este projeto consiste no desenvolvimento de uma **aplicação web dinâmica** para a Coffe Mania, permitindo que clientes visualizem produtos, conheçam informações sobre o negócio e realizem pedidos online. A aplicação é responsiva, acessível e organizada com boas práticas de desenvolvimento web.
+Este projeto consiste no desenvolvimento de uma **aplicação web dinâmica** para a Coffee Mania, permitindo que clientes visualizem produtos, conheçam informações sobre o negócio e realizem pedidos online. A aplicação é responsiva, acessível e organizada com boas práticas de desenvolvimento web.
 
 O problema identificado é a **falta de presença digital** da cafeteria, o que dificulta alcançar novos clientes. A solução proposta visa criar uma interface intuitiva e adaptável a diferentes dispositivos, utilizando **HTML5, CSS3 e Bootstrap 5**.
 
@@ -15,7 +15,7 @@ O problema identificado é a **falta de presença digital** da cafeteria, o que 
 ---
 
 ## 🎯 Objetivo
-Desenvolver uma aplicação web responsiva para a Coffe Mania, permitindo a visualização de produtos, informações do negócio e interação com clientes por meio de um botão de ação para pedidos.
+Desenvolver uma aplicação web responsiva para a Coffee Mania, permitindo a visualização de produtos, informações do negócio e interação com clientes por meio de um botão de ação para pedidos.
 
 ### Objetivos específicos:
 - Definir a estrutura da aplicação e os componentes necessários  
