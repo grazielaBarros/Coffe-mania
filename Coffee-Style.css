@@ -1,0 +1,26 @@
+/* styles.css */
+.header-brown {
+  background-color: #6f4e37;
+  color: #fff; /* garante o branco mesmo se outra classe mudar */
+}
+
+.lead{
+    color: rgb(97, 65, 38);
+}
+
+.btn {
+    color: rgba(248, 246, 246, 0.979);
+    background-color: #882f0b;
+    margin: 5px;
+    padding: 9px;
+
+}
+.bg-light {
+    background-color: #eed1bc !important;
+}
+
+.bg-dark {
+    background-color: #47433f !important;
+    margin: 100px;
+    padding: 100;
+}
